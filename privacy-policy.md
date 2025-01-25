@@ -1,124 +1,124 @@
-# プライバシーポリシー
+# Privacy Policy
 
-株式会社MNO（以下「当社」といいます。）が提供する、ソーシャル映画サービス「PodDiary（ポッドダイアリー）」（以下PodDiaryにより提供されるサービス・情報の総称を「本サービス」といいます。）を安心して利用していただくため、当社は以下のようにプライバシーポリシーを定め、個人情報を厳重に管理します。
-
----
-
-## 1. プライバシーポリシーの適用範囲
-本プライバシーポリシーは、「PodDiary 利用規約」に含まれるものとして位置づけられており、利用者が本サービスを利用するときに適用されます。
-
-当社が本サービスを通じて利用者の皆様から取得した情報は、本プライバシーポリシーに従って取り扱われます。ただし、リンク先など他事業者等による個人情報収集及び利用等は、本プライバシーポリシーの適用範囲ではありません。
+MNO Corporation (hereinafter referred to as "the Company") has established the following privacy policy to strictly manage personal information and ensure that users can safely use the social movie service "PodDiary" (hereinafter collectively referred to as "this Service" for all services and information provided through PodDiary).
 
 ---
 
-## 2. 利用者情報の取得
-当社は、利用者の皆様が本サービスを利用する際に、以下の情報（「パーソナル情報」、「公開情報」及び「広告情報」を含み、あわせて「利用者情報」と総称します。）を提供いただいたり、自動的に取得したりすることがあります。
+## 1. Scope of the Privacy Policy
+This Privacy Policy is positioned as part of the "PodDiary Terms of Use" and applies when users utilize this Service.
 
-### 【パーソナル情報】
-- PodDiary ID、メールアドレス、性別、生年月日
+Information obtained from users through this Service is handled in accordance with this Privacy Policy. However, the collection and use of personal information by other entities linked to this Service are outside the scope of this Privacy Policy.
+
+---
+
+## 2. Acquisition of User Information
+When users utilize this Service, the Company may obtain the following information (collectively referred to as "User Information," including "Personal Information," "Public Information," and "Advertising Information") either provided by users or automatically acquired.
+
+### **Personal Information**
+- PodDiary ID, email address, gender, date of birth
 - Spotify ID
-- キャンペーン応募時の氏名、住所、電話番号
+- Name, address, and phone number provided during campaign applications
 
-### 【公開情報】
-- タグ、レビュー、コメント、ニックネーム及びプロフィール画像等
-- 作成・更新日時等のメタデータ、言語、タイムゾーン
+### **Public Information**
+- Tags, reviews, comments, nicknames, profile images, etc.
+- Metadata such as creation/update timestamps, language, time zone
 
-### 【広告情報】
-- 匿名のユーザーID（IDFA、Android AdID、Cookie情報、提携パートナーより受け取ったID等）
-- 視聴環境（OS情報、広告表示アプリ情報、端末情報、位置情報、IPアドレス等）
-- 広告の閲覧情報、広告に対するアンケート結果
-
----
-
-## 3. 利用者情報の外部送信について
-当社は、利用者の皆様が本サービスを利用する際に、Cookie等を利用し、利用者に応じた本サービス内容のカスタマイズ、広告・マーケティング等の目的で、利用者情報の外部送信を行っています。
-
-外部事業者の事業者名・サービス名、外部事業者に送信される利用者情報の内容及びその利用目的等については、外部送信ポリシーをご覧ください。
+### **Advertising Information**
+- Anonymous user IDs (e.g., IDFA, Android AdID, cookie information, IDs received from partner companies)
+- Viewing environment (e.g., OS information, advertising app information, device information, location information, IP address)
+- Advertising viewing information and survey responses regarding advertisements
 
 ---
 
-## 4. 安全管理措置
-当社は、個人情報の漏えい、滅失又は毀損の防止その他個人情報の保護のため、以下の措置を講じます：
-- 役員を含むすべての従業員に対する教育や研修の実施
-- システム面での個人情報ファイルへのアクセス制限
-- アクセスログの記録及び外部からの不正アクセス防止のためのセキュリティ対策
+## 3. External Transmission of User Information
+The Company transmits user information externally through the use of cookies and similar technologies for purposes such as customizing the content of this Service based on user preferences and for advertising and marketing.
+
+For details regarding the names of external businesses, their services, the content of user information sent to them, and the purposes of use, please refer to the External Transmission Policy.
 
 ---
 
-## 5. 利用者情報の利用目的
-当社は、利用者情報を以下の目的の範囲内で利用します。利用目的の範囲を超える場合には、利用者本人の同意を得るものとします。
-
-- 本サービスの改善及びサポート
-- 新しいサービスの検討
-- 本サービスに関するお知らせやアンケート、必要な連絡
-- 本人確認、不正利用防止
-- 統計データの作成及び公開
-- 広告効果の測定、報告、改善
-- カスタマイズされたサービス提供
+## 4. Safety Management Measures
+The Company implements the following measures to prevent the leakage, loss, or damage of personal information and to ensure its protection:
+- Providing education and training for all employees, including executives
+- Restricting access to personal information files at the system level
+- Recording access logs and implementing security measures to prevent unauthorized external access
 
 ---
 
-## 6. 利用者情報の開示について
-当社は、以下の場合に利用者情報を第三者に提供することがあります：
-- 本人の同意がある場合
-- 裁判所・警察等の公的機関からの請求がある場合
-- 法令に基づく場合
+## 5. Purpose of Use of User Information
+The Company uses user information within the scope of the following purposes. If the use exceeds this scope, the Company will obtain the user’s consent.
+
+- Improvement and support of this Service
+- Development of new services
+- Notifications, surveys, and necessary communications regarding this Service
+- Identity verification and prevention of unauthorized use
+- Creation and publication of statistical data
+- Measurement, reporting, and improvement of advertising effectiveness
+- Provision of customized services
 
 ---
 
-## 7. 匿名加工情報の取り扱いについて
-当社は、特定の個人を識別できないように個人情報を加工し、匿名加工情報を作成・提供します。
-
-### 主な加工方法：
-- 特定項目の削除・仮名化
-- 一般化（例：生年月日を年齢層に変換）
-
----
-
-## 8. 広告配信について
-当社は、利用者のプライバシーに配慮し、以下の行為を実施しません：
-- 健康状態や政治的信条等の機微な属性の推定
-
-利用者は、広告配信の停止や再開を選択することが可能です。
+## 6. Disclosure of User Information
+The Company may provide user information to third parties in the following cases:
+- When the user has given their consent
+- When requested by public authorities such as courts or police
+- When required by law
 
 ---
 
-## 9. 利用者情報の閲覧・修正等について
-利用者本人から利用者情報の開示、訂正、利用停止、削除の請求があった場合、本人確認のうえ対応します。
+## 7. Handling of Anonymized Information
+The Company creates and provides anonymized information by processing personal information so that specific individuals cannot be identified.
 
-- 開示請求にあたっては、手数料（1,000円）が必要です。
-
----
-
-## 10. 苦情処理
-当社は、利用者情報の管理に関する苦情に対して誠実に対応します。
+### Main Processing Methods:
+- Deletion or pseudonymization of specific data
+- Generalization (e.g., converting date of birth to age group)
 
 ---
 
-## 11. 利用者情報の利用期間・保持期間
-利用者が本サービスを利用しなくなった場合でも、削除依頼がない限り情報を保持する場合があります。
+## 8. Advertising Distribution
+The Company respects user privacy and does not engage in the following actions:
+- Inferring sensitive attributes such as health conditions or political beliefs
+
+Users can choose to stop or resume advertising distribution.
 
 ---
 
-## 12. 情報の預託
-業務委託先に情報を提供する場合、適切な監督を行います。
+## 9. Viewing and Modifying User Information
+If a user requests the disclosure, correction, suspension of use, or deletion of their user information, the Company will respond after verifying the user’s identity.
+
+- A fee of 1,000 yen is required for disclosure requests.
 
 ---
 
-## 13. プライバシーポリシーの範囲
-本ポリシーは当社と利用者間にのみ適用され、提携企業やリンク先には適用されません。
+## 10. Handling Complaints
+The Company sincerely addresses complaints regarding the management of user information.
 
 ---
 
-## 14. プライバシーポリシーの改定
-本ポリシーの改定については、利用者に個別通知またはサービス内で告知します。
+## 11. Retention Period of User Information
+Even if a user stops using this Service, the Company may retain the information unless a deletion request is made.
 
 ---
 
-## 15. お問い合わせ窓口
-**株式会社MNO PodDiary事業部**  
-E-mail：contact@PodDiary.com  
-※ 件名に「プライバシーポリシーについて」と記入ください。
+## 12. Entrustment of Information
+When providing information to subcontractors, the Company will conduct appropriate supervision.
 
-附則
-令和6年12月7日制定・施行
+---
+
+## 13. Scope of the Privacy Policy
+This Policy applies only between the Company and users and does not apply to partner companies or linked entities.
+
+---
+
+## 14. Revisions to the Privacy Policy
+Revisions to this Policy will be individually notified to users or announced within the Service.
+
+---
+
+## 15. Contact Information
+**MNO Corporation, PodDiary Business Division**  
+E-mail: contact@PodDiary.com  
+*Please include "Regarding the Privacy Policy" in the subject line.*
+
+**Appendix**  
+Established and effective: December 7, 2024
