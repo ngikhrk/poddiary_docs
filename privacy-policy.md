@@ -1,6 +1,6 @@
 # Privacy Policy
 
-MNO Corporation (hereinafter referred to as "the Company") has established the following privacy policy to strictly manage personal information and ensure that users can safely use the social service "PodDiary" (hereinafter collectively referred to as "this Service" for all services and information provided through PodDiary).
+Ryota Makino (hereinafter referred to as "the Provider") has established the following privacy policy to strictly manage personal information and ensure that users can safely use the social service "PodDiary" (hereinafter collectively referred to as "this Service" for all services and information provided through PodDiary).
 
 ---
 
@@ -12,7 +12,7 @@ Information obtained from users through this Service is handled in accordance wi
 ---
 
 ## 2. Acquisition of User Information
-When users utilize this Service, the Company may obtain the following information (collectively referred to as "User Information," including "Personal Information," "Public Information," and "Advertising Information") either provided by users or automatically acquired.
+When users utilize this Service, the Provider may obtain the following information (collectively referred to as "User Information," including "Personal Information," "Public Information," and "Advertising Information") either provided by users or automatically acquired.
 
 ### **Personal Information**
 - PodDiary ID, email address, gender, date of birth
@@ -31,14 +31,14 @@ When users utilize this Service, the Company may obtain the following informatio
 ---
 
 ## 3. External Transmission of User Information
-The Company transmits user information externally through the use of cookies and similar technologies for purposes such as customizing the content of this Service based on user preferences and for advertising and marketing.
+the Provider transmits user information externally through the use of cookies and similar technologies for purposes such as customizing the content of this Service based on user preferences and for advertising and marketing.
 
 For details regarding the names of external businesses, their services, the content of user information sent to them, and the purposes of use, please refer to the External Transmission Policy.
 
 ---
 
 ## 4. Safety Management Measures
-The Company implements the following measures to prevent the leakage, loss, or damage of personal information and to ensure its protection:
+the Provider implements the following measures to prevent the leakage, loss, or damage of personal information and to ensure its protection:
 - Providing education and training for all employees, including executives
 - Restricting access to personal information files at the system level
 - Recording access logs and implementing security measures to prevent unauthorized external access
@@ -46,7 +46,7 @@ The Company implements the following measures to prevent the leakage, loss, or d
 ---
 
 ## 5. Purpose of Use of User Information
-The Company uses user information within the scope of the following purposes. If the use exceeds this scope, the Company will obtain the user’s consent.
+the Provider uses user information within the scope of the following purposes. If the use exceeds this scope, the Provider will obtain the user’s consent.
 
 - Improvement and support of this Service
 - Development of new services
@@ -59,7 +59,7 @@ The Company uses user information within the scope of the following purposes. If
 ---
 
 ## 6. Disclosure of User Information
-The Company may provide user information to third parties in the following cases:
+the Provider may provide user information to third parties in the following cases:
 - When the user has given their consent
 - When requested by public authorities such as courts or police
 - When required by law
@@ -67,7 +67,7 @@ The Company may provide user information to third parties in the following cases
 ---
 
 ## 7. Handling of Anonymized Information
-The Company creates and provides anonymized information by processing personal information so that specific individuals cannot be identified.
+the Provider creates and provides anonymized information by processing personal information so that specific individuals cannot be identified.
 
 ### Main Processing Methods:
 - Deletion or pseudonymization of specific data
@@ -76,7 +76,7 @@ The Company creates and provides anonymized information by processing personal i
 ---
 
 ## 8. Advertising Distribution
-The Company respects user privacy and does not engage in the following actions:
+the Provider respects user privacy and does not engage in the following actions:
 - Inferring sensitive attributes such as health conditions or political beliefs
 
 Users can choose to stop or resume advertising distribution.
@@ -84,29 +84,29 @@ Users can choose to stop or resume advertising distribution.
 ---
 
 ## 9. Viewing and Modifying User Information
-If a user requests the disclosure, correction, suspension of use, or deletion of their user information, the Company will respond after verifying the user’s identity.
+If a user requests the disclosure, correction, suspension of use, or deletion of their user information, the Provider will respond after verifying the user’s identity.
 
 - A fee of 1,000 yen is required for disclosure requests.
 
 ---
 
 ## 10. Handling Complaints
-The Company sincerely addresses complaints regarding the management of user information.
+the Provider sincerely addresses complaints regarding the management of user information.
 
 ---
 
 ## 11. Retention Period of User Information
-Even if a user stops using this Service, the Company may retain the information unless a deletion request is made.
+Even if a user stops using this Service, the Provider may retain the information unless a deletion request is made.
 
 ---
 
 ## 12. Entrustment of Information
-When providing information to subcontractors, the Company will conduct appropriate supervision.
+When providing information to subcontractors, the Provider will conduct appropriate supervision.
 
 ---
 
 ## 13. Scope of the Privacy Policy
-This Policy applies only between the Company and users and does not apply to partner companies or linked entities.
+This Policy applies only between the Provider and users and does not apply to partner companies or linked entities.
 
 ---
 
@@ -116,7 +116,7 @@ Revisions to this Policy will be individually notified to users or announced wit
 ---
 
 ## 15. Contact Information
-**MNO Corporation, PodDiary Business Division**  
+**Ryota Makino, PodDiary Business Division**  
 E-mail: contact@PodDiary.com  
 *Please include "Regarding the Privacy Policy" in the subject line.*
 
