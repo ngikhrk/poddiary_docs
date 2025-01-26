@@ -116,7 +116,7 @@ Revisions to this Policy will be individually notified to users or announced wit
 ---
 
 ## 15. Contact Information
-**Ryota Makino, PodDiary Business Division**  
+**Ryota Makino, Individual Developer**  
 E-mail: contact@PodDiary.com  
 *Please include "Regarding the Privacy Policy" in the subject line.*
 
