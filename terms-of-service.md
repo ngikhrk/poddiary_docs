@@ -10,7 +10,7 @@ Please note that the content of these Terms of Service may be updated as necessa
 
 ## Article 1 (Definitions)
 - **"PodDiary"**  
-  The social movie service provided by MNO Corporation (hereinafter referred to as "the Company").  
+  The social service provided by MNO Corporation (hereinafter referred to as "the Company").  
 
 - **"This Service"**  
   The collective term for the services and information provided through PodDiary.  
