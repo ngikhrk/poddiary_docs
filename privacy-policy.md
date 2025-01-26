@@ -1,6 +1,6 @@
 # Privacy Policy
 
-MNO Corporation (hereinafter referred to as "the Company") has established the following privacy policy to strictly manage personal information and ensure that users can safely use the social movie service "PodDiary" (hereinafter collectively referred to as "this Service" for all services and information provided through PodDiary).
+MNO Corporation (hereinafter referred to as "the Company") has established the following privacy policy to strictly manage personal information and ensure that users can safely use the social service "PodDiary" (hereinafter collectively referred to as "this Service" for all services and information provided through PodDiary).
 
 ---
 
